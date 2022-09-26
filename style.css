@@ -6,3 +6,9 @@ body {
 img {
     border: none;
 }
+
+div#counter {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
